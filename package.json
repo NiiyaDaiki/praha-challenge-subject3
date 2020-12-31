@@ -1,0 +1,19 @@
+{
+  "name": "praha-challenge",
+  "version": "1.0.0",
+  "description": "subject 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiiyaDaiki/praha-challenge-subject3.git"
+  },
+  "author": "daiki.niiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiiyaDaiki/praha-challenge-subject3/issues"
+  },
+  "homepage": "https://github.com/NiiyaDaiki/praha-challenge-subject3#readme"
+}
